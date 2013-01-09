@@ -5,9 +5,9 @@ A javascript plugin to help you understand reading engaement on your website.
 
 /ˈrēdəbəl/
 
-*Adjective*
+####*Adjective*
 (of a text, script, or code) Able to be read or deciphered; legible.
 Easy or enjoyable to read: "a marvelously readable book".
 
-*Synonyms*
+####*Synonyms*
 legible
